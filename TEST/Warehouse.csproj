@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CAF11CC2-C72C-41B6-BE54-C3B5DA632FF8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TEST</RootNamespace>
+    <AssemblyName>TEST</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>C:\Users\pochu\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>295</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>450CDE9869B0D7BEA51F5CB3C57F1792C1FEFE07</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>TEST_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Controls, Version=2.2.5.0, Culture=neutral, PublicKeyToken=a8ac264d1dc6b9d9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Controls.2.2.5\lib\AForge.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Imaging.2.2.5\lib\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Math.2.2.5\lib\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="libzbar-cil, Version=0.10.5554.37510, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\packages\libzbar-cil.0.10.0.1\lib\net35\libzbar-cil.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Activities" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.4.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.4\lib\net40\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.4.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.4\lib\net40\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbnormalCTN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbnormalCTN.Designer.cs">
+      <DependentUpon>AbnormalCTN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barcode.Designer.cs">
+      <DependentUpon>Barcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BarcodeAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarcodeAll.Designer.cs">
+      <DependentUpon>BarcodeAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BDepartInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BDepartInsert.Designer.cs">
+      <DependentUpon>BDepartInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BoardStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoardStatus.Designer.cs">
+      <DependentUpon>BoardStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CartonDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CartonDetail.Designer.cs">
+      <DependentUpon>CartonDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeScqty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeScqty.Designer.cs">
+      <DependentUpon>ChangeScqty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComOrder.Designer.cs">
+      <DependentUpon>ComOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBinding.cs" />
+    <Compile Include="DataBinding2.cs" />
+    <Compile Include="DataGridViewPrint.cs" />
+    <Compile Include="DayReportDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DayReportDetail.Designer.cs">
+      <DependentUpon>DayReportDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DDBHBACK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDBHBACK.Designer.cs">
+      <DependentUpon>DDBHBACK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FSALOCATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FSALOCATION.Designer.cs">
+      <DependentUpon>FSALOCATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDCHECK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IDCHECK.Designer.cs">
+      <DependentUpon>IDCHECK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InspectionComplete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InspectionComplete.Designer.cs">
+      <DependentUpon>InspectionComplete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InspectionFix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InspectionFix.Designer.cs">
+      <DependentUpon>InspectionFix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InspectionInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InspectionInsert.Designer.cs">
+      <DependentUpon>InspectionInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InWarehouse.Designer.cs">
+      <DependentUpon>InWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeanDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeanDetail.Designer.cs">
+      <DependentUpon>LeanDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LeanLack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LeanLack.Designer.cs">
+      <DependentUpon>LeanLack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineChart.Designer.cs">
+      <DependentUpon>LineChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineDaily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LineDaily.Designer.cs">
+      <DependentUpon>LineDaily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LY_TESTDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LY_TESTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Mainpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainpage.Designer.cs">
+      <DependentUpon>Mainpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mainpage2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mainpage2.Designer.cs">
+      <DependentUpon>Mainpage2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modifytype.cs" />
+    <Compile Include="OrderDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderDetail.Designer.cs">
+      <DependentUpon>OrderDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SepScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SepScan.Designer.cs">
+      <DependentUpon>SepScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StorePIC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StorePIC.Designer.cs">
+      <DependentUpon>StorePIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.cs">
+      <DependentUpon>update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="WHBIPalletDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHBIPalletDetail.Designer.cs">
+      <DependentUpon>WHBIPalletDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHBIPallet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHBIPallet.Designer.cs">
+      <DependentUpon>WHBIPallet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHBIStorageLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHBIStorageLocation.Designer.cs">
+      <DependentUpon>WHBIStorageLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHBIStorageLocationDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHBIStorageLocationDetail.Designer.cs">
+      <DependentUpon>WHBIStorageLocationDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHBIWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHBIWarehouse.Designer.cs">
+      <DependentUpon>WHBIWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHBIWarehouseDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHBIWarehouseDetail.Designer.cs">
+      <DependentUpon>WHBIWarehouseDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHBillboardOrderStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHBillboardOrderStatus.Designer.cs">
+      <DependentUpon>WHBillboardOrderStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHDayReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHDayReport.Designer.cs">
+      <DependentUpon>WHDayReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHFinBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHFinBox.Designer.cs">
+      <DependentUpon>WHFinBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHInspectionDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHInspectionDetail.Designer.cs">
+      <DependentUpon>WHInspectionDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHInspectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHInspectionForm.Designer.cs">
+      <DependentUpon>WHInspectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHInsProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHInsProcess.Designer.cs">
+      <DependentUpon>WHInsProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHLogin.Designer.cs">
+      <DependentUpon>WHLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WHROStatusInWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHROStatusInWarehouse.Designer.cs">
+      <DependentUpon>WHROStatusInWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHROStorageInquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHROStorageInquiry.Designer.cs">
+      <DependentUpon>WHROStorageInquiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHScanCamera2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHScanCamera2.Designer.cs">
+      <DependentUpon>WHScanCamera2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHScanCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHScanCode.Designer.cs">
+      <DependentUpon>WHScanCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHSFGAssignStoreLocation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHSFGAssignStoreLocation.Designer.cs">
+      <DependentUpon>WHSFGAssignStoreLocation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHSFGScanin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHSFGScanin2.Designer.cs">
+      <DependentUpon>WHSFGScanin2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHSFGStorageAssignPallet2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHSFGStorageAssignPallet2.Designer.cs">
+      <DependentUpon>WHSFGStorageAssignPallet2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHSO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHSO.Designer.cs">
+      <DependentUpon>WHSO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHSOFinishedGoods2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHSOFinishedGoods2.Designer.cs">
+      <DependentUpon>WHSOFinishedGoods2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHStorageNow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHStorageNow.Designer.cs">
+      <DependentUpon>WHStorageNow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHTable.Designer.cs">
+      <DependentUpon>WHTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WHToday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WHToday.Designer.cs">
+      <DependentUpon>WHToday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YWCPDDBHDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YWCPDDBHDetail.Designer.cs">
+      <DependentUpon>YWCPDDBHDetail.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AbnormalCTN.resx">
+      <DependentUpon>AbnormalCTN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barcode.resx">
+      <DependentUpon>Barcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarcodeAll.resx">
+      <DependentUpon>BarcodeAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BDepartInsert.resx">
+      <DependentUpon>BDepartInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoardStatus.resx">
+      <DependentUpon>BoardStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CartonDetail.resx">
+      <DependentUpon>CartonDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeScqty.resx">
+      <DependentUpon>ChangeScqty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComOrder.resx">
+      <DependentUpon>ComOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DayReportDetail.resx">
+      <DependentUpon>DayReportDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DDBHBACK.resx">
+      <DependentUpon>DDBHBACK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FSALOCATION.resx">
+      <DependentUpon>FSALOCATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDCHECK.resx">
+      <DependentUpon>IDCHECK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InspectionComplete.resx">
+      <DependentUpon>InspectionComplete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InspectionFix.resx">
+      <DependentUpon>InspectionFix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InspectionInsert.resx">
+      <DependentUpon>InspectionInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InWarehouse.resx">
+      <DependentUpon>InWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeanDetail.resx">
+      <DependentUpon>LeanDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeanLack.resx">
+      <DependentUpon>LeanLack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineChart.resx">
+      <DependentUpon>LineChart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LineDaily.resx">
+      <DependentUpon>LineDaily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainpage.resx">
+      <DependentUpon>Mainpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mainpage2.resx">
+      <DependentUpon>Mainpage2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderDetail.resx">
+      <DependentUpon>OrderDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SepScan.resx">
+      <DependentUpon>SepScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StorePIC.resx">
+      <DependentUpon>StorePIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBIPallet.resx">
+      <DependentUpon>WHBIPallet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBIPalletDetail.resx">
+      <DependentUpon>WHBIPalletDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBIStorageLocation.resx">
+      <DependentUpon>WHBIStorageLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBIStorageLocationDetail.resx">
+      <DependentUpon>WHBIStorageLocationDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBIWarehouse.resx">
+      <DependentUpon>WHBIWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBIWarehouseDetail.resx">
+      <DependentUpon>WHBIWarehouseDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHBillboardOrderStatus.resx">
+      <DependentUpon>WHBillboardOrderStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHDayReport.resx">
+      <DependentUpon>WHDayReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHFinBox.resx">
+      <DependentUpon>WHFinBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHInspectionDetail.resx">
+      <DependentUpon>WHInspectionDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHInspectionForm.resx">
+      <DependentUpon>WHInspectionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHInsProcess.resx">
+      <DependentUpon>WHInsProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHLogin.resx">
+      <DependentUpon>WHLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="WHROStatusInWarehouse.resx">
+      <DependentUpon>WHROStatusInWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHROStorageInquiry.resx">
+      <DependentUpon>WHROStorageInquiry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHScanCamera2.resx">
+      <DependentUpon>WHScanCamera2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHScanCode.resx">
+      <DependentUpon>WHScanCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHSFGAssignStoreLocation.resx">
+      <DependentUpon>WHSFGAssignStoreLocation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHSFGScanin2.resx">
+      <DependentUpon>WHSFGScanin2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHSFGStorageAssignPallet2.resx">
+      <DependentUpon>WHSFGStorageAssignPallet2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHSO.resx">
+      <DependentUpon>WHSO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHSOFinishedGoods2.resx">
+      <DependentUpon>WHSOFinishedGoods2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHStorageNow.resx">
+      <DependentUpon>WHStorageNow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHTable.resx">
+      <DependentUpon>WHTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WHToday.resx">
+      <DependentUpon>WHToday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YWCPDDBHDetail.resx">
+      <DependentUpon>YWCPDDBHDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="LY_TESTDataSet.xsc">
+      <DependentUpon>LY_TESTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LY_TESTDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LY_TESTDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LY_TESTDataSet.xss">
+      <DependentUpon>LY_TESTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TEST_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 與 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="libiconv-2.dll" />
+    <Content Include="libjpeg-7.dll" />
+    <Content Include="libMagickCore-2.dll" />
+    <Content Include="libMagickWand-2.dll" />
+    <Content Include="libpng12-0.dll" />
+    <Content Include="libtiff-3.dll" />
+    <Content Include="libxml2-2.dll" />
+    <Content Include="libzbar-0.dll" />
+    <Content Include="zlib1.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

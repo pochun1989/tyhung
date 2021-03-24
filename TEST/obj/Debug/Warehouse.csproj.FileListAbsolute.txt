@@ -1,0 +1,550 @@
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHMainpage.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\Final\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHMainpage.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\不掃內盒\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.StorePIC.resources
+C:\Users\pochu\Desktop\ty\掃內盒\TEST\TEST\obj\Debug\TEST.IDCHECK.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.IDCHECK.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.StorePIC.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.update.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.OrderDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.ComOrder.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHStorageNow.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHToday.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHDayReport.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHFinBox.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHTable.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHInsProcess.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHInspectionForm.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHInspectionDetail.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHScanCode.resources
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Controls.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Imaging.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Math.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Video.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\libzbar-cil.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\zxing.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\zxing.presentation.dll
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Controls.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Imaging.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Math.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Video.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\zxing.pdb
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\zxing.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\zxing.presentation.pdb
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\bin\Debug\zxing.presentation.xml
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\pochu\Desktop\ty\掃內盒\tyhung\TEST\obj\Debug\TEST.WHScanCamera2.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Controls.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Imaging.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Math.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Video.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\libzbar-cil.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\zxing.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\zxing.presentation.dll
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Controls.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Imaging.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Math.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Video.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\zxing.pdb
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\zxing.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\zxing.presentation.pdb
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\bin\Debug\zxing.presentation.xml
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.ComOrder.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.IDCHECK.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.OrderDetail.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.StorePIC.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.update.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHDayReport.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHFinBox.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHInspectionDetail.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHInspectionForm.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHInsProcess.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHScanCamera2.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHScanCode.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHStorageNow.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHTable.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.WHToday.resources
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\ty\主程式\YF\tyhung\TEST\obj\Debug\TEST.ChangeScqty.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Controls.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Imaging.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Math.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Video.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\libzbar-cil.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\zxing.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\zxing.presentation.dll
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Controls.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Imaging.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Math.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Video.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\zxing.pdb
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\zxing.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\zxing.presentation.pdb
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\bin\Debug\zxing.presentation.xml
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.ChangeScqty.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.ComOrder.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.IDCHECK.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.OrderDetail.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.StorePIC.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.update.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHDayReport.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHFinBox.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHInspectionDetail.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHInspectionForm.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHInsProcess.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHScanCamera2.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHScanCode.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHStorageNow.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHTable.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.WHToday.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.DDBHBACK.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.InspectionFix.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.DayReportDetail.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.BDepartInsert.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.CartonDetail.resources
+C:\Users\pochu\Desktop\MAIN\YF\tyhung\TEST\obj\Debug\TEST.YWCPDDBHDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Controls.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Imaging.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Math.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Video.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\libzbar-cil.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\zxing.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\zxing.presentation.dll
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Controls.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Imaging.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Math.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Video.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\zxing.pdb
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\zxing.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\zxing.presentation.pdb
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\bin\Debug\zxing.presentation.xml
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.BDepartInsert.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.CartonDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.ChangeScqty.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.ComOrder.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.DayReportDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.DDBHBACK.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.IDCHECK.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.InspectionFix.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.OrderDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.StorePIC.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.update.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHDayReport.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHFinBox.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHInspectionDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHInspectionForm.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHInsProcess.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHScanCamera2.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHScanCode.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHStorageNow.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHTable.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.WHToday.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.YWCPDDBHDetail.resources
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN\tyhung\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Controls.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Imaging.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Math.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Video.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\libzbar-cil.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\zxing.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\zxing.presentation.dll
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Controls.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Imaging.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Math.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Video.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\zxing.pdb
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\zxing.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\zxing.presentation.pdb
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\bin\Debug\zxing.presentation.xml
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.BDepartInsert.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.CartonDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.ChangeScqty.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.ComOrder.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.DayReportDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.DDBHBACK.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.IDCHECK.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.InspectionFix.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.OrderDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.StorePIC.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.update.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHDayReport.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHFinBox.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHInspectionDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHInspectionForm.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHInsProcess.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHScanCamera2.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHScanCode.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHStorageNow.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHTable.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.WHToday.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.YWCPDDBHDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.pdb
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.FSALOCATION.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.LineDaily.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.BoardStatus.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.LeanDetail.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.AbnormalCTN.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.InWarehouse.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.LeanLack.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.InspectionComplete.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.InspectionInsert.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.SepScan.resources
+C:\Users\pochu\Desktop\MAIN\YS特化\tyhung\TEST\obj\Debug\TEST.LineChart.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\TEST.exe.config
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\TEST.pdb
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Controls.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Imaging.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Math.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Video.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\libzbar-cil.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\zxing.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\zxing.presentation.dll
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Controls.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Imaging.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Math.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Video.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\zxing.pdb
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\zxing.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\zxing.presentation.pdb
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\bin\Debug\zxing.presentation.xml
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.AbnormalCTN.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.Barcode.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.BarcodeAll.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.BDepartInsert.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.BoardStatus.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.CartonDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.ChangeScqty.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.ComOrder.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.DayReportDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.DDBHBACK.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.FSALOCATION.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.IDCHECK.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.InspectionComplete.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.InspectionFix.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.InspectionInsert.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.InWarehouse.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.LeanDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.LeanLack.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.LineChart.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.LineDaily.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.Mainpage.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.Mainpage2.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.OrderDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.SepScan.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.StorePIC.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.update.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIPallet.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIPalletDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocation.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIStorageLocationDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIWarehouse.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHBIWarehouseDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHBillboardOrderStatus.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHDayReport.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHFinBox.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHInspectionDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHInspectionForm.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHInsProcess.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHLogin.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHROStatusInWarehouse.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHROStorageInquiry.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHScanCamera2.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHScanCode.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHSFGAssignStoreLocation.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHSFGScanin2.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHSFGStorageAssignPallet2.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHSO.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHSOFinishedGoods2.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHStorageNow.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHTable.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.WHToday.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.YWCPDDBHDetail.resources
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.exe.manifest
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.application
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.exe
+C:\Users\pochu\Desktop\MAIN CODE\WAREHOUSE\成品倉系統\YSYF\YS特化\tyhung\TEST\obj\Debug\TEST.pdb
